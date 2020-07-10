@@ -1,0 +1,235 @@
+/*--Login-Form--*/
+
+.form-group-custom-0 {
+    margin-bottom: 0;
+}
+
+.form-group-custom-1 {
+    margin-top: .4rem;
+    margin-bottom: 0;
+}
+
+/*--Dashboard--*/
+
+.container {
+    margin: auto;
+    height: auto;
+    display: flex;
+    top: 3rem;
+    position: relative;
+    padding: .3rem;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 33%;
+    margin-left: .3rem;
+    margin-top: .3rem;
+}
+
+.card-custom {
+    height: 10.5rem;
+}
+
+.card-task-custom {
+    height: 10.5rem;
+    margin-top: .4rem;
+    margin-bottom: .4rem;
+}
+
+.card-body-custom {
+    height: 1rem;
+    margin-bottom: 2rem;
+}
+
+.card-content-p {
+    line-height: 1.3rem;
+}
+
+.card-title-h5 {
+    margin-bottom: 1.5rem;
+    margin-top: 0;
+    font-size: 1.3rem;
+}
+
+.card-title-h6 {
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+    font-size: 1.3rem;
+}
+
+/*--Child-Page--*/
+
+.container-child {
+    margin: auto;
+    height: auto;
+    display: flex;
+    top: 3rem;
+    position: relative;
+    padding: .3rem;
+    flex-wrap: wrap;
+}
+
+.container-item {
+    width: 100%;
+    height: auto;
+    display: flex;
+    top: 0;
+    position: relative;
+    padding-top: .3rem;
+    flex-wrap: wrap;
+}
+
+.item-toolbar {
+    margin-left: .3rem;
+    margin-top: .3rem;
+}
+
+.item-toolbar-load-more {
+    margin: auto;
+    margin-top: .5rem;
+}
+
+.item-toolbar-paging {
+    margin: auto;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+.label-itemtoolbar-paging {
+    margin: auto;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    margin-right: .5rem;
+    margin-left: .5rem;
+}
+
+.text-area-height {
+    height: 20rem !important;
+}
+
+.block-with-text {
+    overflow: hidden;
+    position: relative;
+    max-height: 2.7em;
+    padding-right: 1em;
+}
+
+/* create the ... */
+
+.block-with-text:before {
+    /* points in the end */
+    content: '...';
+    /* absolute position */
+    position: absolute;
+    /* set position to right bottom corner of block */
+    right: 0;
+    bottom: 0;
+}
+
+/* hide ... if we have text, which is less than or equal to max lines */
+
+.block-with-text:after {
+    /* points in the end */
+    content: '';
+    /* absolute position */
+    position: absolute;
+    /* set position to right bottom corner of text */
+    right: 0;
+    /* set width and height */
+    width: 1em;
+    height: 1em;
+    margin-top: 0.2em;
+    /* bg color = bg color under block */
+    background: white;
+}
+
+.popover-main {
+    width: 20rem;
+}
+
+.popover-content-custom {
+    padding: .5rem;
+}
+
+/*--table--*/
+
+.table-width {
+    width: 100%;
+}
+
+.cell-table-center {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+.cell-table-normal {
+    vertical-align: middle !important;
+}
+
+table {
+    border: 1px solid #DBDCDD;
+}
+
+table th {
+    text-align: center !important;
+    vertical-align: middle;
+}
+
+/*--Avatar--*/
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.avatar-header {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: .3rem;
+}
+
+/*--Tab-contents--*/
+
+.tabs-width {
+    width: 100%;
+    margin: .5rem;
+}
+
+.tab-display {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0;
+}
+
+.tag-custom {
+    margin-right: .4rem;
+}
+
+.avatar-assign {
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.card-footer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0;
+}
+
+.card-footer-item {
+    width: auto;
+    margin-left: .3rem;
+    margin-top: .3rem;
+}
+
+.switch-control {
+    margin-top: 0.2rem;
+    margin-bottom: 0;
+}

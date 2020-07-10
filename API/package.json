@@ -1,0 +1,17 @@
+{
+  "name": "web-api",
+  "version": "0.0.0",
+  "description": "WebAPI",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pg": "^7.11.0"
+  }
+}
