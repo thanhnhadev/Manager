@@ -1830,9 +1830,9 @@ acorn-walk@^6.0.1:
   integrity sha512-OtUw6JUTgxA2QoqqmrmQ7F2NYqiBPi/L2jqHyFtllhOUvXYQXf0Z1CYUinIfyT4bTCGmrA7gX9FvHA81uzCoVw==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.0.5, acorn@^6.0.7:
   version "6.1.1"
@@ -9352,9 +9352,10 @@ slice-ansi@^2.1.0:
     astral-regex "^1.0.0"
     is-fullwidth-code-point "^2.0.0"
 
-"smooth-dnd@git+https://github.com/rcdexta/smooth-dnd.git":
-  version "0.6.3"
-  resolved "git+https://github.com/rcdexta/smooth-dnd.git#f13924c67bf6ffe4613d97bb1ee83f11d364eb1e"
+"smooth-dnd@https://github.com/rcdexta/smooth-dnd":
+  version "1.0.0"
+  uid "223f4672bea94f65b98af4fd28ab0db2c3b9c8a2"
+  resolved "https://github.com/rcdexta/smooth-dnd#223f4672bea94f65b98af4fd28ab0db2c3b9c8a2"
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
