@@ -9,7 +9,7 @@
     "@blueprintjs/table": "^3.5.0",
     "@react-firebase/database": "^0.3.10",
     "firebase": "^6.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
