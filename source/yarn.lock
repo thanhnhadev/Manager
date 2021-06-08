@@ -6500,9 +6500,9 @@ memory-fs@^0.4.0, memory-fs@^0.4.1, memory-fs@~0.4.1:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
@@ -9352,9 +9352,10 @@ slice-ansi@^2.1.0:
     astral-regex "^1.0.0"
     is-fullwidth-code-point "^2.0.0"
 
-"smooth-dnd@git+https://github.com/rcdexta/smooth-dnd.git":
-  version "0.6.3"
-  resolved "git+https://github.com/rcdexta/smooth-dnd.git#f13924c67bf6ffe4613d97bb1ee83f11d364eb1e"
+"smooth-dnd@https://github.com/rcdexta/smooth-dnd":
+  version "1.0.0"
+  uid "223f4672bea94f65b98af4fd28ab0db2c3b9c8a2"
+  resolved "https://github.com/rcdexta/smooth-dnd#223f4672bea94f65b98af4fd28ab0db2c3b9c8a2"
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
